@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-10-22T18:05"}
+{"dg-publish":true,"permalink":"/101/Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)/","title":"Fény és Sötétség - A Magyarság Helye a Világban (Mission Statement)","tags":["gardenEntry"],"created":"2023-10-04T08:31","updated":"2024-10-22T19:26"}
 ---
 
 
@@ -42,13 +42,13 @@ A menet közbeni folyamatos feltöltésekkel előbb a mobilos/táblagépes böng
 
 Az **Oldal tartalma** a jelenleg megnyitott cikk tartalomjegyzéke, címsorok szerint. Hosszabb állományokban hasznos igazán, vagy ha valaki pl. Jankovics Marcell vagy más véleményére akar rögtön ugrani. Igyekeztem a szerzők neveit így kiemelni mindenhol, ahol lehetett.  
 
-A **Kapcsolt oldalak** egy, az adott cikkhez kötődő más, rokon (a cikkhez "linkelt") témák neveit (magukat a cikkeket) tartalmazó grafikai megoldás, melyben több kis gomb is van. Érdemes nyomogatni, mert nagyítani is lehet. A földgömb az összes file-t meg akarja mutatni, ami sok ezer file-nál nem tudom, mennyire lesz hasznos (és a gépet is leterhelheti), a négy nyilas ikonnal mellette kedvezőbb közelségbe hozhatók az egyes grafikonok, hogy még olvashatóvá is válnak az elemek. Újra ugyanerre kattintva kerülünk vissza a szöveghez. A **Mélység** a kapcsolatok mélységének megjelenítését szabályozza: 1-es, 2-es és 3-as fokozata van.  
+A **Kapcsolt oldalak** egy, az adott cikkhez kötődő más, rokon (a cikkhez "linkelt") témák neveit (magukat a cikkeket) tartalmazó grafikai megoldás, melyben több kis gomb is van. Érdemes nyomogatni, mert nagyítani is lehet. A földgömb az összes file-t meg akarja mutatni, ami sok ezer file-nál nem tudom, mennyire lesz hasznos (és a gépet is leterhelheti), a négy nyilas ikonnal mellette kedvezőbb közelségbe hozhatók az egyes grafikonok, hogy még olvashatóvá is válnak az elemek, főleg, hogy az egér tekerőjével ill. laptop beépített touchpad-egerével két ujjal fel-le mozgással nagyítani-kicsinyíteni is lehet. Újra ugyanerre a négy nyilas ikonra kattintva tudunk visszatérni a szöveghez. A **Mélység** a kapcsolatok mélységének megjelenítését szabályozza: 1-es, 2-es és 3-as fokozata van.  
 Az **Oldalt említő más oldalak** ugyanezt szövegesen mutatja meg. Lesz amikor **Nincs említés más oldalról**.  
 
 Bal oldalt a három vízszintes vonalkára kattintva találjunk az összes eleddig feltöltött állomány A-Z mappákba szedett listáját. Ez azért lehet jobb, mint a **Keresés**, mert itt áttekinthetővé válik a (folyamatosan bővülő) "felhozatal": az egyes témák, melyek nem minden esetben pusztán egy szó lehetséges eredetét feszegetik, hanem akár esszé méretűvé nőttek (pl. [[C/Csudaszarvas\|Csudaszarvas]], [[T/Turul\|Turul]], [[H/Hunor és Magor\|Hunor és Magor]], [[I/Isten\|Isten]], [[M/Magyar\|Magyar]], stb.).  
 Az egyes cikkek majdnem mindegyikében lesznek kattintható, ún. "wikilinkek"; igen, mint a Wikipédián, azaz a rokon és nem rokon témákban szabadon lehet kalauzolni: egyes kattintások csak lejjebb visznek az adott oldalon, mások – jóval gyakrabban – egy másik file-ba léptetnek. A grafikon ugyanezen linkeket tartalmazza.  
 
-Amennyiben egy olyan helyre érkeznénk, amelyhez még adatállomány nem lett feltöltve (ezeknek linkjei eleve más színűek), értesítőt kapunk:  
+Amennyiben egy olyan helyre érkeznénk, amelyhez még adatállomány nem lett feltöltve (ezeknek linkjei eleve más színűek), értesítést kapunk.  
   
 A linkre kattintva ezen állományhoz kerülünk vissza. Lehet a böngésző bal felső sarkában a visszafelé nyíllal is hátrálni egyet ilyenkor.  
 
@@ -58,7 +58,7 @@ Felül a borítékra kattintva lehet bármelyik oldalról email-t küldeni: az a
 A boríték mellett a három ikon értelemszerűen a téma színváltoztatását szolgálja: világos – sötét – automatikus. Legalábbis ez lett volna a cél; jelenleg leginkább átvált egyikről a másikra, mindegy hova kattint az ember, de ez is megfelel, sőt.  
 
 Amennyiben 1400 pixelszélességnél kisebb képernyőn tekinti meg az oldalt, akkor a mobil alkalmazásnak megfelelő nézetet kapja. Ilyenkor asztali gépen vagy laptopon az oldal jobb áttekinthetősége és funkcióinak könnyű elérése végett érdemes kipróbálni 90%-os nagyításban, mely állapothoz a CTRL és mínusz gomb lenyomásaival juthat.  
-- A jövőben vélhetően erre is megoldás születik majd, így ezzel majd nem kell foglalkozni.  
+- A jövőben vélhetően erre is egy automatikus megoldás születik majd, így ezzel majd nem kell foglalkozni.  
 
 Egyes helyeken, ahol a Wikilinkek után közvetlenül egy kötőjel vagy rag következik, egy felesleges szóköz jelenhet meg. Ennek okát nem tudom; talán a Google automatikus fordítójának bekapcsolt állapota okozza. Az én gépeimen és böngészőimben ez a probléma nem áll fenn, de az olvashatóságot annyira nem befolyásolja, hogy ezért bárminemű szoftveres beavatkozást eszközöljek.  
 
