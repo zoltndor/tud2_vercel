@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Auscultate/","title":"Auscultate","tags":["Englishtexttranslated"],"created":"2023-11-12T05:48","updated":"2024-10-22T22:45"}
+{"dg-publish":true,"permalink":"/A/Auscultate/","title":"Auscultate","tags":["Englishtexttranslated"],"created":"2023-11-12T05:48","updated":"2024-10-23T01:49"}
 ---
 
 
