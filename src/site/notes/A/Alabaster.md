@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Alabaster/","title":"Alabaster","created":"2023-10-05T03:49","updated":"2024-10-22T21:45"}
+{"dg-publish":true,"permalink":"/A/Alabaster/","title":"Alabaster","created":"2023-10-05T03:49","updated":"2024-10-22T22:02"}
 ---
 
 
@@ -11,4 +11,3 @@ Alabástrom. A görögben `ἀλάβαστρος` (alabastros), de r hangbetold�
 
 
 
-Hasonló az [[A/Albasta\|Albasta]] boszorkány-név.  
