@@ -1,0 +1,43 @@
+name: 'Daily auto-merge with PAT private repo'
+
+on:
+  schedule:
+    - cron: '50 * * * *'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          repository: zoltndor/tud2_vercel
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Ensure clean working directory
+        run: git reset --hard
+
+      - name: Setup Git
+        run: |
+          git config --global user.name 'zoltndor'
+          git config --global user.email '148901985+zoltndor@users.noreply.github.com'
+
+      - name: Fetch latest main branch
+        run: git fetch origin main
+
+      - name: Checkout master branch
+        run: git checkout master
+
+      - name: Merge main into master
+        run: |
+          git merge origin/main --no-ff -m "Merge main to master" || git merge --abort
+          git push https://${{ secrets.PAT_TOKEN }}@github.com/zoltndor/tud2_vercel.git master
+
+      - name: Clean up after merge
+        run: git reset --hard HEAD
