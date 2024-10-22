@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2024-10-22T21:23"}
+{"dg-publish":true,"permalink":"/A/Ablak/","title":"Ablak","created":"2023-10-21T03:47","updated":"2024-10-22T21:47"}
 ---
 
 
@@ -34,4 +34,4 @@ A fekete-fehér a fény és árnyék megoszlására utal, mint ahogy [[L/Libra\|
 A fenti fonológiai értelmezés alapján metatézisről volna szó és a szlovák-cseh `oblok` = ablak, másutt `oblok`, `oblak` = felhő és `obloha` = (csillagos) ég szavak mégsem ablak szavunkból erednek? Nehéz tudni. Tény, hogy a fentebbi adatok szerint a régi ablakok az égre néztek.   
 Hogy a [[B/Black\|black]] (mely szintén az ég sötétje lehetne) ablak szavunkból eredő lenne-e, ez nehezebben megállapítható, de a [[D/Dark\|dark]] = sötét szót [[T/Tarka\|tarka]] szavunkból eredőnek tartva nem kizárt.  
 
-Mivel szláv nyelvekben `oblik` és hasonló alakú szavak alakot, formát jelentenek és ezek kapcsán görbe, Nyilazó emberre (és Orionra) gondoltunk, lehetséges, hogy ív > ab levezetést kell alkalmazni és ez esetben ablak tényleg a szlávból (szkítából) átvét, viszont az is lehetséges, hogy [[A/Alak\|alak]] szavunk ajakhangos változata oblik.  
+Mivel szláv nyelvekben `oblik` és hasonló alakú szavak alakot, formát jelentenek és ezek kapcsán görbe, Nyilazó emberre (és Orionra) gondoltunk, lehetséges, hogy ív > ab levezetést kell alkalmazni és ez esetben ablak tényleg a szlávból (szkítából) átvét, viszont az is lehetséges, hogy `alak` szavunk ajakhangos változata oblik.  
