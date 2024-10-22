@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2024-10-22T21:33"}
+{"dg-publish":true,"permalink":"/A/Adapa/","title":"Adapa","created":"2023-10-22T02:38","updated":"2024-10-22T21:38"}
 ---
 
 
 # Adapa
 
-Ad-Apa felbontásban tökéletesen magyarítható: Ad Apa az az Atya aki Ad. Az Ad mindig a többlet, a pozitívum, a hímségi princípium, mint [[A/Ádám\|Ádám]] nevében, vagy olyan szavakban mint [[A/Add\|add]], [[A/Adolescent\|adolescent]]. Tulajdonképpen az At (Ata, Atya) lágyult formája, ahol A isteni, magasságos minőség.  
+Ad-Apa felbontásban tökéletesen magyarítható: Ad Apa az az Atya aki Ad. Az Ad mindig a többlet, a pozitívum, a hímségi princípium, mint [[A/Ádám\|Ádám]] nevében, vagy olyan szavakban mint pl. [[A/Add\|add]]. Tulajdonképpen az At (Ata, Atya) lágyult formája, ahol A isteni, magasságos minőség.  
 
 #### Várkonyi Nándor Az elveszett Paradicsom...
 
